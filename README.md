@@ -3,7 +3,7 @@ Small utility that turns csv files into markdown table syntax.
 
 ## Disclaimer
 This project is mainly for personal use so it may not support
-the csv spec properly.
+the csv spec properly. Additionally, I am not familiar with rust I may have done some terrible rust practices.
 
 ## Example
 
